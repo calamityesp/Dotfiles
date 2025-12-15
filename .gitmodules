@@ -4,4 +4,4 @@
 	branch = develop
 [submodule "tmux"]
 	path = tmux
-	url = https://gist.github.com/33c9059a1431847dc7f0b1ff4cd9d0eb.git
+	url = https://github.com/calamityesp/tmux-kdds.git
