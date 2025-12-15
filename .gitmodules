@@ -2,3 +2,6 @@
 	path = nvim/.config/nvim
 	url = https://github.com/calamityesp/nvim_config_kdds.git
 	branch = develop
+[submodule "tmux"]
+	path = tmux
+	url = https://gist.github.com/33c9059a1431847dc7f0b1ff4cd9d0eb.git
