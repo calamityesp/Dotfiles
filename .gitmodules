@@ -6,3 +6,6 @@
 	path = tmux
 	url = https://github.com/calamityesp/tmux-kdds
   branch = work
+[submodule "zsh"]
+	path = zsh
+	url = https://github.com/calamityesp/zshrc-kdds.git
