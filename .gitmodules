@@ -5,4 +5,4 @@
 [submodule "zsh"]
 	path = zsh
 	url = https://github.com/calamityesp/zshrc-kdds.git
-   branch = develop
+	branch = develop
