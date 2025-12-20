@@ -4,7 +4,7 @@
   branch = work
 [submodule "tmux"]
 	path = tmux
-	url = https://github.com/calamityesp/tmux-kdds
+	url = https://github.com/calamityesp/tmux-kdds.git
   branch = work
 [submodule "zsh"]
 	path = zsh
