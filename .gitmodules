@@ -12,6 +12,3 @@
 [submodule "ideavim"]
 	path = ideavim
 	url = https://gist.github.com/5708ba78199701083880efe9f5ef7d70.git
-[submodule "zen/.config/zen"]
-	path = zen/.config/zen
-	url = https://gist.github.com/449dec1b05e557108c74060615bb1057.git
