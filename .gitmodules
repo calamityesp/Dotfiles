@@ -1,7 +1,7 @@
 [submodule "nvim/.config/nvim"]
 	path = nvim/.config/nvim
 	url = https://github.com/calamityesp/nvim_config_kdds.git
-	branch = work
+	branch = develop_wv3
 [submodule "zsh"]
 	path = zsh
 	url = https://github.com/calamityesp/zshrc-kdds.git
